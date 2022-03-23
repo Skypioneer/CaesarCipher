@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw6EC/CaesarCipher.cpp
+CaesarCipher.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw6EC/CaesarCipher.h
+iostream
+-
+utility
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw6EC/CaesarCipher.h
+string
+-
+sstream
+-
+stdexcept
+-
+
